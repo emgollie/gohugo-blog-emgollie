@@ -4,7 +4,7 @@ title = "NYT + Advocating for Audiences"
 draft = false
 image = "https://emgollie-blog.nyc3.cdn.digitaloceanspaces.com/static/img/portfolio/nyt_logo.jpg"
 showonlyimage = false
-weight = 1
+weight = 2
 +++
 
 **Project**: Understand Millennial audiences’ digital needs and design powerful news products for them. 

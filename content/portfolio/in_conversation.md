@@ -3,7 +3,7 @@ date = "2016-11-05T19:41:01+05:30"
 title = "Entrepreneurs Video Storytelling"
 draft = false
 showonlyimage = false
-weight = 1
+weight = 10
 +++
 
 **Project**: Make it possible for tech entrepreneurs to share their stories in their own words, then make that content widely available for free learning.

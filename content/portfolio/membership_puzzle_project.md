@@ -4,7 +4,7 @@ draft = false
 image = "https://emgollie-blog.nyc3.cdn.digitaloceanspaces.com/static/img/portfolio/mpp_logo.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "NYU + Optimizing Media for Trust"
-weight = 0
+weight = 1
 +++
 
 **Project**: [An initiative](https://membershippuzzle.org/) to study how news organizations are diversifying their revenue, optimizing for trust, and encouraging members to participate in their journalism.

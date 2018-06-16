@@ -4,7 +4,7 @@ showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
 title = "Stanford + Teaching UX Research"
 draft = false
-weight = 2
+weight = 3
 +++
 
 **Project**: A new graduate course at the Stanford design institute (“d.school").
