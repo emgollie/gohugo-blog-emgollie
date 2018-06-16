@@ -1,0 +1,53 @@
+# baseurl = "https://emilygoligoski.com/"
+baseurl = "http:/165.227.125.52/"
+title = "Emily Goligoski"
+theme = "hugo-creative-portfolio-theme"
+languageCode = "en-us"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+
+[params]
+  # Style options: default (pink), blue, green, pink, red, sea, violet
+  # Use custom.css for your custom styling
+  style = "default"
+  description = "Emily Goligoski"  
+  siteLogo = "https://emgollie-blog.nyc3.cdn.digitaloceanspaces.com/static/emgollie_logo.png"
+  copyright = "EmGollie"
+  sidebarAbout = [
+    "Originally from Ohio, currently based in Brooklyn."
+  ]
+  # Contact page
+     # Since this template is static, the contact form uses www.formspree.io as a
+     # proxy. The form makes a POST request to their servers to send the actual
+     # email. Visitors can send up to a 1000 emails each month for free.
+     #
+     # What you need to do for the setup?
+     #
+     # - set your email address under 'email' below
+     # - upload the generated site to your server
+     # - send a dummy email yourself to confirm your account
+     # - click the confirm link in the email from www.formspree.io
+     # - you're done. Happy mailing!
+  email = "em@emilygoligoski.com"
+
+  # Nav links in the side bar
+  [[params.navlinks]]
+  name = "Home"
+  url = "portfolio/"
+  home = true
+
+  [[params.navlinks]]
+  name = "About"
+  url = "about/"
+
+  [[params.navlinks]]
+  name = "Get in touch"
+  url = "contact/"
+
+  [params.social]  
+  email         = "em@emilygoligoski.com"
+  twitter       = "https://twitter.com/emgollie"
+  linkedin      = "https://www.linkedin.com/in/emilygoligoski"
+  
